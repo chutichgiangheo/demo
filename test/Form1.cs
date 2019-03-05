@@ -22,5 +22,11 @@ namespace test
             int b = 8;
             int c = a + b;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            int so1 = 8;
+            int so2 = 0;
+        }
     }
 }
