@@ -24,13 +24,12 @@ namespace test
             int so3 = so1 + so2;
         }
 
+  
+
         private void label1_Click(object sender, EventArgs e)
         {
-            int so1 = 4;
-            int so2 = 8;//lyly
-
- 
-
+            int so1 = 8;
+            int so2 = 0;
         }
     }
 }
