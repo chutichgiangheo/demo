@@ -26,7 +26,7 @@ namespace test
         private void label1_Click(object sender, EventArgs e)
         {
             int so1 = 4;
-            int so2 = 8;
+            int so2 = 8;//lyly
         }
     }
 }
